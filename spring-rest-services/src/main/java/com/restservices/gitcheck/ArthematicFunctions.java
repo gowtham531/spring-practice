@@ -6,7 +6,7 @@ public class ArthematicFunctions {
 		Add add = new Add();
 		int result = add.sun(10, 20);
 		System.out.println("sum is::"+result);
-
+        System.out.println("Done");
 	}
 
 }
