@@ -7,6 +7,8 @@ public class ArthematicFunctions {
 		int result = add.sun(10, 20);
 		System.out.println("sum is::"+result);
         System.out.println("Done");
+        int mul=add.mul(2, 3);
+        System.out.println("mul is::"+mul);
 	}
 
 }

@@ -5,5 +5,9 @@ public class Add {
 		int result = x+y;
 		return result;
 	}
+	public int mul(int x,int y) {
+		return
+				x*y;
+	}
 
 }
